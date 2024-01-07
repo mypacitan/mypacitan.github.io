@@ -255,10 +255,7 @@ section {
   height: 300px;
   opacity: 1;
 }
-.expert .content .box .imgBx:hover {
-  opacity: 1;
-  opacity: 0.8;
-}
+
 .expert .content .box .imgBx img {
   position: absolute;
   top: 0;
