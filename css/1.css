@@ -257,7 +257,6 @@ section {
 }
 .expert .content .box .imgBx:hover {
   opacity: 1;
-  cursor: pointer;
   opacity: 0.8;
 }
 .expert .content .box .imgBx img {
